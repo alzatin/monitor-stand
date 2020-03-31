@@ -296,6 +296,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9364820846905538,
+                    "y": 0.32894736842105265,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 0.7812160694896851,
@@ -304,18 +311,11 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 0.9891422366992401,
-                    "y": 0.5,
-                    "ioValues": []
-                },
-                {
                     "atomType": "OverCut-Corners",
                     "name": "Over Cut Corners",
-                    "x": 0.9201954397394138,
-                    "y": 0.7532894736842105,
-                    "uniqueID": 582577,
+                    "x": 0.9011943539630837,
+                    "y": 0.6776315789473684,
+                    "uniqueID": 497256,
                     "ioValues": [
                         {
                             "name": "diameter",
@@ -498,7 +498,7 @@
                     "ap2Name": "geometry",
                     "ap2Primary": false,
                     "ap1ID": 519629,
-                    "ap2ID": 582577
+                    "ap2ID": 497256
                 },
                 {
                     "ap1Name": "number",
@@ -532,5 +532,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": "3.4"
 }
