@@ -270,6 +270,14 @@
                     ]
                 },
                 {
+                    "atomType": "Svg",
+                    "name": "Svg",
+                    "x": 0.8895747599451302,
+                    "y": 0.27791563275434245,
+                    "uniqueID": 763160,
+                    "ioValues": []
+                },
+                {
                     "atomType": "OverCut-Corners",
                     "name": "Over Cut Corners",
                     "x": 0.8262757871878393,
@@ -492,6 +500,19 @@
                     "ap2Primary": false,
                     "ap1ID": 453086,
                     "ap2ID": 482896
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 497256
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 497256,
+                    "ap2ID": 763160
                 },
                 {
                     "ap1Name": "number",
