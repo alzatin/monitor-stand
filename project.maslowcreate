@@ -340,7 +340,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 2
+                            "ioValue": 20
                         }
                     ]
                 }
